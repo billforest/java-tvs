@@ -1,0 +1,5 @@
+// BWTV.java
+
+public class BWTV extends TV implements Analog {
+  
+} // end class BWTH
